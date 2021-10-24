@@ -1,3 +1,5 @@
 Hello world! This is fun!
 This is a new text.
 A new extra line is here..
+
+This is cool
